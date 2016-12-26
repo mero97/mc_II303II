@@ -1,4 +1,4 @@
-  DEV TH3BOSS 
+  DEV mc_II303II
   
   
  كيفية تنصيب بوت الزعيم التحديث الاخير 2016
@@ -23,11 +23,11 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورأهأَ خلي  
 
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/mero97/mc_II303II.git
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأ خلي    
 
-cd TH3BOSS
+cd mc_II303II
 ➖🔹➖🔹➖🔹➖🔹➖🔹
 ورهأَ خلي 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -45,11 +45,11 @@ chmod +x launch.sh
 مبروك عليك افضل بوت عل تلي 
 
 عندك استفسار او اي شي راسلني
-@TH3BOSS
+@II303II
 واذا محظور تعال على بوت التواصل
-@ll60Kllbot
+@
 قـنـاة الـسـورس
-@llDEV1ll
+@III303III
 
  Enter a phone number & confirmation code.
 Congratulations, you better bot
@@ -72,7 +72,7 @@ redis-server
 وفتح ترمنال ثاني وخلي  
 ```sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson* libpython-dev make unzip git redis-server g++ -y --force-yes && git clone https://github.com/mero97/mc_II303II.git && cd mc_II303II && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
 
 ➖🔹➖🔹➖🔹➖🔹➖🔹
@@ -97,10 +97,4 @@ Open ./data/config.lua and add your ID to the "sudo_users" section in the follow
 ```
  مـبروَك أصبَحتـَ مـطورَ بوـتكَ لتوأصل معي 
 
-Dev :   [@TH3BOSS](https://telegram.me/TH3BOSS)
-Dev_BOT :  [@ll60KllBOT](https://telegram.me/ll60KllBOT)
-Dev_Channel : [@llDEV1ll](https://telegram.me/llDEV1ll)
-عندكَ فكره تطوير السورس او البوت تفظل هنأَ🏿️
-You have an idea to develop Alsoors or bot prefer 🏿️
 
-(https://telegram.me/TH3BOSS)
